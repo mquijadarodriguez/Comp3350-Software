@@ -15,10 +15,6 @@ open_in_new_tab = false
 link_text = "About"
 link_url = "/"
 open_in_new_tab = false
-[[page_sections.navigation]]
-link_text = "GitHub"
-link_url = "https://github.com"
-open_in_new_tab = true
 [[page_sections]]
 block = "header-2"
 logo = "/uploads/ixalan-theaters.png"
