@@ -48,7 +48,7 @@ block = "hero-1"
 heading = "All<br><strong>available blocks.</strong>"
 template = "text-only-hero-banner"
 [[page_sections]]
-background_image = "/uploads/2018/06/21/hero-2-bg.png"
+background_image = "/uploads/movie-918655_1920.jpg"
 block = "hero-2"
 content = "We have blocks to spare"
 headline = "Blocks on<br>blocks<br><strong>on blocks</strong>"
