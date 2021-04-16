@@ -75,7 +75,7 @@ headline = "Tell me about it"
 template = "detail-content"
 [[page_sections]]
 block = "one-column-1"
-content = "One column is good"
+content = "Hello does this change anything."
 headline = "One column"
 template = "1-column-text"
 [[page_sections]]
@@ -113,11 +113,6 @@ image = "/uploads/2018/06/21/drone-photo.jpeg"
 [page_sections.image_2]
 caption = "Captions are optional"
 image = "/uploads/2018/06/21/drone-photo.jpeg"
-[[page_sections]]
-block = "cta-bar"
-content = "This form uses formspree, so you can plugin in an email address and start receiving submissions right away"
-email_recipient = "test@example.com"
-template = "signup-bar"
 [[page_sections]]
 block = "footer-1"
 content = "Just a footer"
